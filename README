@@ -9,3 +9,6 @@ This project contains binaries for Windows build using Microsoft
 Visual Studio 2008.
 
 axTLD, libao, libmad and pthreads-win32 were used to prepare this distributtion.
+
+Source code of this binary can be found at:
+https://github.com/thedmd/pianobar-windows-build
