@@ -1,0 +1,5 @@
+control_proxy = http://<proxy_user>:<proxy_pass>@<proxy_address>:<proxy_port>
+user = <pandora_user>
+password = <pandora_password>
+width = 220
+height = 60
