@@ -12,3 +12,14 @@ axTLD, libao, libmad and pthreads-win32 were used to prepare this distributtion.
 
 Source code of this binary can be found at:
 https://github.com/thedmd/pianobar-windows-build
+
+
+CONFIGURATION
+
+Pianobar use configuration file. Under Windows this file is named pianobar.cfg
+and should be placed next to pianobar.exe.
+On reporitory there is an example configuration file, you may copy or rename it.
+Then edit it and fill marked fields relevant to you and remove remaining.
+
+Note that non-US users have to have configuration file with control proxy
+details set.
