@@ -1,5 +1,18 @@
 control_proxy = http://<proxy_user>:<proxy_pass>@<proxy_address>:<proxy_port>
+
 user = <pandora_user>
 password = <pandora_password>
+
 width = 220
 height = 60
+
+#-------------------------------------------------------------------------------
+# Uncomment those if you're using GlobalPandora.com
+
+#rpc_host = internal-tuner.pandora.com
+#partner_user = pandora one
+#partner_password = TVCKIBGS9AO9TSYLNNFUML0743LH82D
+#device = D01
+#encrypt_password = 2%3WCL*JU$MP]4
+#decrypt_password = U#IO$RZPAB%VX2
+#tls_fingerprint = 394067eecb420e3911985c2cc02c12ae89bb09b2
